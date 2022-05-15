@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mostafarasheed20@gmail.com
 
 <!---
 smartie20/smartie20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
